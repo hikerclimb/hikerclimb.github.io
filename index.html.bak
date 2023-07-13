@@ -9,8 +9,8 @@
   <body>
     <main>
         <h1>Accounting 101</h1>  
-        <h2><a href="https://hikerclimb.github.io/Debit.html">Debit</a></h2>
-		<h2><a href="https://hikerclimb.github.io/Debit.html">Credit</a></h2>
+        <h2><a href="Debit.html">Debit</a></h2>
+		<h2><a href="/Credit.html">Credit</a></h2>
 		<h2><a href="url">Bonds</a></h2>
 		<h2><a href="url">Stocks</a></h2>
 		<h2><a href="url">Crypto</a></h2>
